@@ -1,3 +1,5 @@
+DO NOT MERGE THIS PULL REQUEST
+
 # Code Climate Services
 
 A collection of classes, each responsible for integrating one external service
